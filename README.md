@@ -1,2 +1,2 @@
 # react-native-map
-Code Map Example for Mobile React Native
+Example Code for you who want to using Map for Mobile React Native
